@@ -5,6 +5,6 @@
 
 [build]
   base    = "."
-  publish = "build"
+  publish = ".next"
   command = "npm run build"
   
